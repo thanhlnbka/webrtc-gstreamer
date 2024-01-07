@@ -1,0 +1,3 @@
+/home/thanhln/Desktop/projects/webrtc-gstreamer/build/CMakeFiles/webrtc-sendrecv.dir
+/home/thanhln/Desktop/projects/webrtc-gstreamer/build/CMakeFiles/edit_cache.dir
+/home/thanhln/Desktop/projects/webrtc-gstreamer/build/CMakeFiles/rebuild_cache.dir
