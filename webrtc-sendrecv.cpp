@@ -46,8 +46,8 @@ static GObject *send_channel, *receive_channel;
 static SoupWebsocketConnection *ws_conn = NULL;
 static enum AppState app_state = AppState::APP_STATE_UNKNOWN;
 static const gchar *peer_id = NULL;
-static const gchar *server_url = "wss://webrtc.nirbheek.in:8443";
-// static const gchar *server_url = "wss://127.0.0.1:8443";
+// static const gchar *server_url = "wss://webrtc.nirbheek.in:8443";
+static const gchar *server_url = "ws://127.0.0.1:8443";
 static gboolean disable_ssl = FALSE;
 static gboolean remote_is_offerer = FALSE;
 
